@@ -42,3 +42,11 @@ label{
     background-color: rgb(255, 0, 43);
     color: black;
 } */
+.roll{
+    padding: 10px 50px;
+    background-color: white;
+}
+.text{
+    font-size: 60px;
+    margin-left: 30px;
+}
