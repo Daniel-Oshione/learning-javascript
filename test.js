@@ -166,3 +166,34 @@
 // console.log(grade);
 
 // to manipulate string use the (.charAT to printout from 0-end)
+
+//learning method chaining add the (.) and concatinating
+
+// testing the &&, !, ||(or) operators with window alert
+// let age = window.prompt("Enter your age: ");
+// let height = window.prompt("Enter your height: ");
+// age = Number(age);
+// height = Number(height);
+
+// if(age >= 18 && height >= 6.1){
+// window.alert("dont even try it");
+// }
+// else{
+//     window.alert("Your good");
+// }
+// === strictly equal to
+// WHILE LOOPING
+// let myage  = "";
+// while(myage === ""){
+//     myage = window.prompt("Please enter your age:");
+// }
+// if(myage < 18){
+//     console.log("You are too young!");
+// }
+// else{
+//     console.log(myage);
+// }
+let start = 'Hello';
+for(let i = 0; i <= 11; i++){
+console.log(i);
+}
